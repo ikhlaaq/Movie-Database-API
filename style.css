@@ -1,0 +1,30 @@
+* {box-sizing: border-box}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+    background-color: rgba(135, 207, 235, 0.637);
+    }
+    .header {
+      padding: 50px;
+      text-align: center;
+      background-image: url(https://www.freewebheaders.com/wordpress/wp-content/gallery/acting-show/red-theater-curtain-background-website-header.jpg);
+      color: white;
+      text-shadow: 2px 2px green;
+  }
+  #search-form{
+      text-align: center;
+      margin-top: 10%;
+  }
+  
+ #search-results{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 10px;
+  
+
+ }
+  
