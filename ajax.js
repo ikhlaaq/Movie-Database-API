@@ -11,7 +11,7 @@ $(function () {
     //Hämta data
 
     function getRequest(input) {
-        var url = 'http://www.omdbapi.com/?';
+        var url = 'https://www.omdbapi.com/?';
         var rules = {
             apiKey: '30ddc182',
             s: input,
