@@ -4,7 +4,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Arial;
-    background-color: rgba(135, 207, 235, 0.637);
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/vfPFP3W/movie-theater-film-reel-background-in-seamless-loop_xk6ivnb9__F0000.png);
     }
     .header {
       padding: 50px;
@@ -26,5 +26,8 @@ body, html {
   padding: 10px;
   
 
+ }
+ a {
+     color: white;
  }
   
