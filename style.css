@@ -7,15 +7,19 @@ body, html {
     background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/vfPFP3W/movie-theater-film-reel-background-in-seamless-loop_xk6ivnb9__F0000.png);
     }
     .header {
-      padding: 50px;
+      padding: 30px;
       text-align: center;
       background-image: url(https://www.freewebheaders.com/wordpress/wp-content/gallery/acting-show/red-theater-curtain-background-website-header.jpg);
       color: white;
       text-shadow: 2px 2px green;
   }
+  h3, p {
+      color: white;
+      text-align: center;
+  }
   #search-form{
       text-align: center;
-      margin-top: 10%;
+      margin-top: 5%;
   }
   
  #search-results{
